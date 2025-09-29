@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Temp\\git\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|c:\\temp\\git\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|solutionrelative:02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|c:\\temp\\git\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|solutionrelative:02_itp_dm_rl_rn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|c:\\temp\\git\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|solutionrelative:02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Temp\\git\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Temp\\git\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\MainWindow.xaml",
               "RelativeDocumentMoniker": "02_ITP_DM_RL_RN\\MainWindow.xaml",
