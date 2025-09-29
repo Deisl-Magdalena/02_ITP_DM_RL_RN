@@ -20,5 +20,10 @@ namespace _02_ITP_DM_RL_RN
         {
             InitializeComponent();
         }
+
+        private void AddTodo(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
