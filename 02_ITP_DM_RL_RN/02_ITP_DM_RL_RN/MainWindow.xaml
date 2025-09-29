@@ -6,12 +6,12 @@
         xmlns:local="clr-namespace:_02_ITP_DM_RL_RN"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="Black">
         <StackPanel Margin="10">
-            <TextBlock Text="ToDo Liste" FontSize="20" FontWeight="Bold"/>
-            <ListBox Name="TodoList" Height="200" Margin="0,10,0,10"/>
-            <TextBox Name="TodoInput" Width="200" Margin="0,0,10,0"/>
-            <Button Content="Hinzufügen" Width="100" Click="AddTodo"/>
+            <TextBlock Text="ToDo Liste" Foreground="pink"  FontSize="20" FontWeight="Bold"/>
+            <ListBox Name="TodoList" Background ="pink" Height="200" Margin="0,10,0,10"/>
+            <TextBox Name="TodoInput" Background ="pink" Width="200" Margin="0,0,10,0"/>
+            <Button Content="Hinzufügen" Background="pink" Width="100" Height="25" Click="AddTodo" Margin="10"/>
         </StackPanel>
     </Grid>
 </Window>
