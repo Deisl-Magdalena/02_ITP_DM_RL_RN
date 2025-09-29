@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ITP\\02_ITP\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|c:\\itp\\02_itp\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE8887-B046-4C74-902A-8171E9FDB9E5}|02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN.csproj|solutionrelative:02_itp_dm_rl_rn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\ITP\\02_ITP\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\ITP\\02_ITP\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "02_ITP_DM_RL_RN\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:50:16.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
